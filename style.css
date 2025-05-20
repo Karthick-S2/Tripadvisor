@@ -475,9 +475,6 @@ body {
 }
 
 @media (max-width: 600px) {
-  .body {
-    width: 50px;
-  }
   .navbar {
     position: sticky;
     top: 0%;
